@@ -10,7 +10,7 @@ on:
 # should be inside the workflow
 jobs:
   say-Hello:
-   runs-on: ubuntu-latest
+     runs-on: ubuntu-latest
     steps:
       - name: Say hello to everyone
         run: echo "hello Dosto"
