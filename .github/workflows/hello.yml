@@ -10,7 +10,7 @@ on:
 
 jobs:
   say-hello:
-    
+    runs-on: ubuntu-latest    
     steps:
       - name: say hello to all
         run: echo "Hello Dosto"
