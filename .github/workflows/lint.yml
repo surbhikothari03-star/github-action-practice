@@ -10,4 +10,7 @@ jobs:
     steps:
       - name: checkout the code
         uses: actions/checkout@v4
+
+      - name: Install linetr
+        run: pip install ruff
         
