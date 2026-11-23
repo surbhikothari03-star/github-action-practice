@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: checkout/Clone the code
         uses: actions/checkout@v7
-
-      - name: Install linetr
+ 
+      - name: Install Linter
         run: pip install ruff
         
