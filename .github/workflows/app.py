@@ -1,4 +1,4 @@
-# This program adds two numbers
+# This program adds two numbers for two numbers eg
 
 num1 = 1.5
 num2 = 6.3
